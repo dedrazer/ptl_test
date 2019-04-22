@@ -1,0 +1,11 @@
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\bin\Debug\MySweeper.exe.config
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\bin\Debug\MySweeper.exe
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\bin\Debug\MySweeper.pdb
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\bin\Debug\MySweeper.xml
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Debug\MySweeper.vbprojAssemblyReference.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Debug\MySweeper.Resources.resources
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Debug\MySweeper.vbproj.GenerateResource.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Debug\MySweeper.vbproj.CoreCompileInputs.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Debug\MySweeper.exe
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Debug\MySweeper.xml
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Debug\MySweeper.pdb

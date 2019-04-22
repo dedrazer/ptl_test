@@ -1,0 +1,10 @@
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\bin\Release\MySweeper.exe.config
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\bin\Release\MySweeper.exe
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\bin\Release\MySweeper.pdb
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\bin\Release\MySweeper.xml
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Release\MySweeper.Resources.resources
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Release\MySweeper.vbproj.GenerateResource.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Release\MySweeper.vbproj.CoreCompileInputs.cache
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Release\MySweeper.exe
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Release\MySweeper.xml
+D:\mmeli\Documents\Visual Studio 2017\Projects\MySweeper\MySweeper\obj\Release\MySweeper.pdb
